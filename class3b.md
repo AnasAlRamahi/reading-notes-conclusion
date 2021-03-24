@@ -14,17 +14,15 @@ Make your design in a **visual Hierarchy** fashion. Because Design is all about 
 Describing the main layout of HTML, and then reviewing it from the old HTML version, which depended on the div tag to make the page's structure.
 But in the new version of HTML, HTML5, alot of grouping tags were added, mentioned in the list below:
 
-*       <header> and 
-        <footer>
-*       <nav>
-*       <article>
-*       <aside>
-*       <section>
-*       <hgroup>
-*       <figure> and
-        <figcaption>
-*and the one from older version is used in implicit definitions:*
-*       <div>
+* \<header\> and \<footer\>
+* \<nav\>
+* \<article\>
+* \<aside\>
+* \<section\>
+* \<hgroup\>
+* \<figure\> and \<figcaption\>
+*and the one from older version, \<div\> is used in implicit definitions:*
+* \<div\>
 
 
 *To make HTML5 elements work in Internet Explorer 8
