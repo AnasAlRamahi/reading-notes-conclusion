@@ -18,4 +18,5 @@ Topic | Page
 Read 01 | [class 1](class1.md)
 Read 02a | [class 2a](class2a.md)
 Read 02b | [class 2b](class2b.md)
-Lab: 03a | [class 3](class3.md)
+Lab 03a | [class 3a](class3a.md)
+Read 03 | [class 3b](class3b.md)
