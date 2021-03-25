@@ -14,14 +14,14 @@ In order to make an expressions, you need to use **Operators**. Operators are us
 * Assignment Operators.
     *  =
 * Mathematical Operators.
-    *  \+
-    *  \-
-    *  \*
-    *  /
-    *  %
-    *  \**
-    *  \++
-    *  \--
+    *  ``` \+ ```
+    *  ``` \- ```
+    *  ``` \* ```
+    *  ``` / ```
+    *  ``` % ```
+    *  ``` \** ```
+    *  ``` \++ ```
+    *  ``` \-- ```
 * String Operators.
     *  \+
 * Comparison Operators.
