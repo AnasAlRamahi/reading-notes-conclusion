@@ -12,18 +12,18 @@ There are two types of **Expressions**, the first an expression to sign a value 
 
 In order to make an expressions, you need to use **Operators**. Operators are used with two or more values to return one value. In Javascript, there are 5 types of operators:
 * Assignment Operators.
-    *  =
+    *  ``` = ```
 * Mathematical Operators.
-    *  ``` \+ ```
-    *  ``` \- ```
-    *  ``` \* ```
+    *  ``` + ```
+    *  ``` - ```
+    *  ``` * ```
     *  ``` / ```
     *  ``` % ```
-    *  ``` \** ```
-    *  ``` \++ ```
-    *  ``` \-- ```
+    *  ``` ** ```
+    *  ``` ++ ```
+    *  ``` -- ```
 * String Operators.
-    *  \+
+    *  ``` + ```
 * Comparison Operators.
 * Logical Operators.
 
