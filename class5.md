@@ -1,7 +1,7 @@
 ## **Read 05:**
 
 ### Comparison & Logical Operators :
-**Comparison opartors** are used to evaluate the condition of an expression, to either result in true or false.
+**Comparison opertors** are used to evaluate the condition of an expression, to either result in true or false.
 
 *Comparison Operators:*
 *  ``` == ``` ___Equal to (checks the data only).
