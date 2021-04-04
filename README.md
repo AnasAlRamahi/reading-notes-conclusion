@@ -17,7 +17,7 @@ Here, is a a conclusion of all of what i've learned through the courses so far, 
 
 ## **Table Of Content : Course 102**
 
-Course |Topic | Page
+**Course** | **Topic** | **Page**
 ------------- | ------------- | -------------
 C 102 |Read 01 | [class 1](class1.md)
 C 102 |Read 02a | [class 2a](class2a.md)
@@ -33,6 +33,6 @@ C 102 |Read 06 | [class 6](class6.md)
 
 ## **Table Of Content : Course 201**
 
-Course |Topic | Page
+**Course** | **Topic** | **Page**
 ------------- | ------------- | -------------
 C 201 | Read 01 | [Pre-work](c201read01.md)
