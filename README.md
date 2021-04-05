@@ -36,3 +36,4 @@ C 102 |Read 06 | [class 6](class6.md)
 **Course** | **Topic** | **Page**
 ------------- | ------------- | -------------
 C 201 | Read 01 | [Pre-work](c201read01.md)
+C 201 | Read 02 | [class 2](c201read02.md)
