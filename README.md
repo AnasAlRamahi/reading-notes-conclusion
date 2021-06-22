@@ -66,7 +66,7 @@ C 301 | Read05| [class 05](course301/c301read05.md)
 C 301 | Read06| [class 06](course301/c301read06.md)
 C 301 | Read07| [class 07](course301/c301read07.md)
 C 301 | Read08| [class 08](course301/c301read08.md)
-C 301 | Read09| ...
+C 301 | Read09| [class 09](course301/c301read09.md)
 C 301 | Read10| [class 10](course301/c301read10.md)
 C 301 | Read11| [class 11](course301/c301read11.md)
 C 301 | Read12| ...
