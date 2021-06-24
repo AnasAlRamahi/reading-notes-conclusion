@@ -71,7 +71,7 @@ C 301 | Read10| [class 10](course301/c301read10.md)
 C 301 | Read11| [class 11](course301/c301read11.md)
 C 301 | Read12| [class 12](course301/c301read12.md)
 C 301 | Read13| [class 13](course301/c301read13.md)
-C 301 | Read14| [class 14](course301/c301read1.md)
+C 301 | Read14| [class 14](course301/c301read14.md)
 
 
 
