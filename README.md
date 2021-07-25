@@ -83,4 +83,5 @@ C 301 | Read14| [class 14](course301/c301read14.md)
 **Course** | **Topic** | **Page**
 ------------- | ------------- | -------------
 C 401 | Read01| [class 01](course401/c401read01.md)
+C 401 | Read02| [class 02](course401/c401read02.md)
 
