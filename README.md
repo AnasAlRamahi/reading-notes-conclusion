@@ -91,4 +91,5 @@ C 401 | Read06| [class 06](course401/c401read06.md)
 C 401 | Read08| [class 08](course401/c401read08.md)
 C 401 | Read09| [class 09](course401/c401read09.md)
 C 401 | Read10| [class 10](course401/c401read10.md)
+C 401 | Read11| [class 11](course401/c401read11.md)
 
