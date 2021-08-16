@@ -96,4 +96,5 @@ C 401 | Read12| [class 12](course401/c401read12.md)
 C 401 | Read13| [class 13](course401/c401read13.md)
 C 401 | Read14| [class 14](course401/c401read14.md)
 C 401 | Read16| [class 16](course401/c401read16.md)
+C 401 | Read17| [class 17](course401/c401read17.md)
 
