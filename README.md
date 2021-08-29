@@ -99,4 +99,5 @@ C 401 | Read16| [class 16](course401/c401read16.md)
 C 401 | Read17| [class 17](course401/c401read17.md)
 C 401 | Read18| [class 18](course401/c401read18.md)
 C 401 | Read19| [class 19](course401/c401read19.md)
+C 401 | Read26| [class 26](course401/c401read26.md)
 
