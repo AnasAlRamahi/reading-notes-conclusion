@@ -103,4 +103,5 @@ C 401 | Read26| [class 26](course401/c401read26.md)
 C 401 | Read27| [class 27](course401/c401read27.md)
 C 401 | Read28| [class 28](course401/c401read28.md)
 C 401 | Read29| [class 29](course401/c401read29.md)
+C 401 | Read30| [class 30](course401/c401read30.md)
 
