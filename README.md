@@ -112,4 +112,5 @@ C 401 | Read35 | [class 35](course401/c401read35.md)
 C 401 | Read36 | [class 36](course401/c401read36.md)
 C 401 | Read37 | [class 37](course401/c401read37.md)
 C 401 | Read38 | [class 38](course401/c401read38.md)
+C 401 | Read41 | [class 41](course401/c401read41.md)
 
